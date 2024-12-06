@@ -13,13 +13,13 @@
 
 ## 📢 FOLLOW OUR WHATSAPP CHANNEL
 
-<a href="https://whatsapp.com/channel/0029VajvrA2ATRSkEnZwMQ0p"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VayNoInAe5VhI3hJHb2f"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green" alt="💥 Join Our WhatsApp Channel For More Updates 💥" width="300"></a>
 
 <br>
 
 <div align="center">
  
-  <h2>🚀 DEPLOY NOW 🚀</h2>
+  <h2>🔥 DEPLOY NOW 🤖</h2>
 </div>
 
 <br>
