@@ -24,15 +24,9 @@
 
 <br>
 
-## ✔ STEP 00 -  Pre Requirements (Click On The Buttton For Tutorial)
-
-<a href="https://i.ytimg.com/an_webp/XhIx3UqIME4/mqdefault_6s.webp?du=3000&sqp=CMKp2rcG&rs=AOn4CLDry4dy_bkGz8ltokH49vKme9qKRA"><img src="https://img.shields.io/badge/GITHUB ACCOUNT-red" alt="Github Account Create Tutorial" width="180"></a>
-
-<a href="https://www.youtube.com/watch?v=F2nz0Lqsp4M"><img src="https://img.shields.io/badge/MONGODB URL-red" alt="MongoDb Url" width="180"></a>
-
 ## ✔ STEP 01 -  Fork The Repo
 
-<a href="https://github.com/uwtechshow-official/Queen-Spriky-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK REPO" width="130"></a>
+<a href=""><img src="https://img.shields.io/badge/Fork%20the%20Repo-8A2BE2" alt="FORK REPO" width="130"></a>
 
 ## ✔ STEP 02 -  Get Session ID
 
