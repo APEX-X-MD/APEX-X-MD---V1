@@ -24,20 +24,20 @@
 
 <br>
 
-## ✔ STEP 01 -  Fork The Repo
+## ✨️ STEP 01 -  Fork The Repo
 
 <a href=""><img src="https://img.shields.io/badge/Fork%20the%20Repo-8A2BE2" alt="FORK REPO" width="130"></a>
 
-## ✔ STEP 02 -  Get Session ID
+## ✨️ STEP 02 -  Get Session ID
 
-<a href="https://queen-spriky-pair.koyeb.app"><img src="https://img.shields.io/badge/Session ID Server 1 Koyeb-blue" alt="GET SESSION SERVER 1 (Koyweb)" width="230"></a><br>
-<a href="https://replit.com/@udavinstudio/Queen-Spriky-Pair-Code-Generator?v=1"><img src="https://img.shields.io/badge/Session ID Server 2 Replit-blue" alt="GET SESSION SERVER 2 (Replit)" width="230"></a>
+<a href=""><img src="https://img.shields.io/badge/Session ID Server 1 Koyeb-blue" alt="GET SESSION SERVER 1 (Koyweb)" width="230"></a><br>
+<a href=""><img src="https://img.shields.io/badge/Session ID Server 2 Replit-blue" alt="GET SESSION SERVER 2 (Replit)" width="230"></a>
 
 
 
-## ✔ STEP 03 -  Deployment Methods
+## ✨️ STEP 03 -  Deployment Methods
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/uwtechshow-official/Queen-Spriky-MD/">
+<a href="">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a><br>
 <a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY CODESPACE" width="150"></a>
@@ -55,6 +55,6 @@
 <div align="center">
  
   <h1>For Support</h1>
-  <a href="https://chat.whatsapp.com/FlELV1jIxBJGtCqwPP7s3V"><img src="https://img.shields.io/badge/WhatsApp Group-greed" alt="Code Space Tutorial" width="250"></a><br>
+  <a href="https://chat.whatsapp.com/HxH9S5DXpEVCLhe6v8l6at"><img src="https://img.shields.io/badge/WhatsApp Group-greed" alt="Code Space Tutorial" width="250"></a><br>
 <br>
 </div>
