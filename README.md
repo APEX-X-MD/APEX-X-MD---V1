@@ -6,7 +6,7 @@
 <a href="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5513F7&width=435&lines=Apex x MD WhatsApp Bot Developed By Sethika " alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/uwtechshow-official/">
+<a href="https://github.com/APEX-X-MD">
     <img src="https://ibb.co/d6vcCSs"  width="700px">
 </a>
 <hr>
