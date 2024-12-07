@@ -1,13 +1,13 @@
 {
   "name": "Apex x MD",
   "description": "Javascript WhatsApp bot made by Sethika",
-  "logo": "| "https://ibb.co/WcTQbT1",
+  "logo": "https://ibb.co/WcTQbT1",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "OYIBlLxI#nWAtmvL6rRhh5TOLJlWROo4UVyqg9VE6C-PwFliTpsw",
       "required": true
     },  
 
