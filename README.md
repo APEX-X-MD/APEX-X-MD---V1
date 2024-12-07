@@ -52,8 +52,6 @@
 <br>
 </div>
 
-<a>< img src="https://github.com/user-attachments/assets/236f2e93-49fd-42e1-8564-aa38671cf651"></a>
-
 <div align="center">
  
   <h1>For Support</h1>
