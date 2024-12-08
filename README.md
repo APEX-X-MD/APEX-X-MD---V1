@@ -1,5 +1,5 @@
 
-<h1 align="center"> APEX X MD WHATSAPP BOT BOT</h1>
+<h1 align="center"> APEX X MD WHATSAPP BOT </h1>
 <h2 align="center">VERSION 1.0</h2>
 <br>
 <p align="center">
